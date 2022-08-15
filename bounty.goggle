@@ -5,10 +5,10 @@
 
 $discard
 
-$boost=3,site=*-api-*.acronis.com
-$boost=3,site=*-cvr-aws-*.sys.comcast.net
-$boost=3,site=*idp*.uzleuven.be
-$boost=3,site=*stag*.uzleuven.be
+! $boost=3,site=*-api-*.acronis.com
+! $boost=3,site=*-cvr-aws-*.sys.comcast.net
+! $boost=3,site=*idp*.uzleuven.be
+! $boost=3,site=*stag*.uzleuven.be
 $boost=3,site=103.196.194.0
 $boost=3,site=103.199.96.0
 $boost=3,site=103.199.96.128
@@ -360,7 +360,7 @@ $boost=3,site=alpha2.sam.gov
 $boost=3,site=alpsea.byspotify.com
 $boost=3,site=altogroup.investnextdemo.co
 $boost=3,site=alumni-friends.monash.edu
-$boost=3,site=amazon.*
+! $boost=3,site=amazon.*
 $boost=3,site=amazonpoc.mwe.zebra.com
 $boost=3,site=american-systems.com
 $boost=3,site=american-systems.org
@@ -408,7 +408,7 @@ $boost=3,site=ap-s.cloud.com
 $boost=3,site=ap.iws.cloud.com
 $boost=3,site=apay-us.amazon.com
 $boost=3,site=aphis.usda.gov
-$boost=3,site=api*.netflix.com
+! $boost=3,site=api*.netflix.com
 $boost=3,site=api-a.delijn.be
 $boost=3,site=api-alpha.sam.gov
 $boost=3,site=api-boards.qwant.com
@@ -946,7 +946,7 @@ $boost=3,site=baseline-analytic-api.ess2dlcoreq.zebra.engineering
 $boost=3,site=baseline-analytic-api.ess2dlcoret.zebra.engineering
 $boost=3,site=basicattentiontoken.org
 $boost=3,site=bassprosb.reflexisinc.com
-$boost=3,site=bastion.*.platfoo.com
+! $boost=3,site=bastion.*.platfoo.com
 $boost=3,site=bathandbodyworks.com
 $boost=3,site=battery-prediction-api.ess2dlcoreq.zebra.engineering
 $boost=3,site=bazonline.ch
@@ -991,7 +991,7 @@ $boost=3,site=belktraining.reflexisinc.com
 $boost=3,site=belvo.com
 $boost=3,site=benchmarks.gsa.gov
 $boost=3,site=benefits.gov
-$boost=3,site=benjerry.com.*
+! $boost=3,site=benjerry.com.*
 $boost=3,site=berneroberlaender.ch
 $boost=3,site=bernerzeitung.ch
 $boost=3,site=berush.com
@@ -1016,7 +1016,7 @@ $boost=3,site=betfair.se
 $boost=3,site=betsharedservices.io
 $boost=3,site=betviewapi.com
 $boost=3,site=bff.ketnet.be
-$boost=3,site=bhgre.*
+! $boost=3,site=bhgre.*
 $boost=3,site=bhp.org.bw
 $boost=3,site=bi-ebs.mtn.com
 $boost=3,site=bidi-on-demand.zpc-lt.zebra.com
@@ -1278,7 +1278,7 @@ $boost=3,site=cars.overstock.com
 $boost=3,site=cart.starbucks.co.jp
 $boost=3,site=carters.profitect.com
 $boost=3,site=carthing.spotify.com
-$boost=3,site=cartus.*
+! $boost=3,site=cartus.*
 $boost=3,site=cash.app
 $boost=3,site=cashier-src.etoro.com
 $boost=3,site=cashier.binary.com
@@ -1292,7 +1292,7 @@ $boost=3,site=casper.com
 $boost=3,site=castleconnolly.com
 $boost=3,site=catalog.data.gov
 $boost=3,site=cbconnection.adobe.com
-$boost=3,site=cbcworldwide.*
+! $boost=3,site=cbcworldwide.*
 $boost=3,site=cbhq.net
 $boost=3,site=cc.profitect.com
 $boost=3,site=ccardseu1.badoo.com
@@ -1324,7 +1324,7 @@ $boost=3,site=cengage.com.au
 $boost=3,site=cengagebrain.com
 $boost=3,site=centostest.reflexisinc.com
 $boost=3,site=central.indeed.com
-$boost=3,site=century21.*
+! $boost=3,site=century21.*
 $boost=3,site=cepheid.fetchcore-cloud.com
 $boost=3,site=certauth.adfsi.gsa.gov
 $boost=3,site=certauth.adfss.gsa.gov
@@ -1480,7 +1480,7 @@ $boost=3,site=cointreau.withspotify.com
 $boost=3,site=cokestore.com
 $boost=3,site=cokeurl.com
 $boost=3,site=coldfusion.adobe.com
-$boost=3,site=coldwellbanker.*
+! $boost=3,site=coldwellbanker.*
 $boost=3,site=collect.zpc-dev.zebra.com
 $boost=3,site=collect.zpc-stage.zebra.com
 $boost=3,site=collect.zpc.zebra.com
@@ -1547,7 +1547,7 @@ $boost=3,site=controlpanel.domain.com
 $boost=3,site=controlpanel.mydomain.com
 $boost=3,site=cops.fas.gsa.gov
 $boost=3,site=coral.20min.ch
-$boost=3,site=corcoran.*
+! $boost=3,site=corcoran.*
 $boost=3,site=core.yoti.com
 $boost=3,site=corp.badoo.com
 $boost=3,site=corporate.takeaway.com
@@ -1736,7 +1736,7 @@ $boost=3,site=davidjonespp.reflexisinc.co.uk
 $boost=3,site=davidjonespp.reflexisinc.com
 $boost=3,site=dbc-a1ba5468-749b.staging.cloud.databricks.com
 $boost=3,site=dcclight.tousanticovid.gouv.fr
-$boost=3,site=dcfgateway*.marriott.com
+! $boost=3,site=dcfgateway*.marriott.com
 $boost=3,site=dcs.clario.co
 $boost=3,site=dcsg.com
 $boost=3,site=dcvdi.fcc.gov
@@ -1757,7 +1757,7 @@ $boost=3,site=deliveroo-data-test.io
 $boost=3,site=deliveroo-data.io
 $boost=3,site=deliveroo-data.net
 $boost=3,site=deliveroo-streams.net
-$boost=3,site=deliveroo.*
+! $boost=3,site=deliveroo.*
 $boost=3,site=dell.com
 $boost=3,site=delta.app
 $boost=3,site=delta.io
@@ -2320,7 +2320,7 @@ $boost=3,site=fleet.gsa.gov
 $boost=3,site=fleetb.gsa.gov
 $boost=3,site=fleeteur.fas.gsa.gov
 $boost=3,site=fleeteurb.fas.gsa.gov
-$boost=3,site=flex.amazon.*
+! $boost=3,site=flex.amazon.*
 $boost=3,site=flex.fetchcore-cloud.com
 $boost=3,site=flickr.com
 $boost=3,site=flipkee.com
@@ -2375,9 +2375,9 @@ $boost=3,site=fr.vidaxl.ch
 $boost=3,site=frame.nutanix.com
 $boost=3,site=frankd.yoti.com
 $boost=3,site=frbsf.org
-$boost=3,site=freight.amazon.*
+! $boost=3,site=freight.amazon.*
 $boost=3,site=fresca.com
-$boost=3,site=fresh.amazon.*
+! $boost=3,site=fresh.amazon.*
 $boost=3,site=fromspotify.com
 $boost=3,site=frontleftlive.withspotify.com
 $boost=3,site=frozen2.withspotify.com
@@ -2426,7 +2426,7 @@ $boost=3,site=garmin-test.fetchcore-cloud.com
 $boost=3,site=garmin.fetchcore-cloud.com
 $boost=3,site=garvan.mlc.com.au
 $boost=3,site=gate.io
-$boost=3,site=gateway*.marriott.com
+! $boost=3,site=gateway*.marriott.com
 $boost=3,site=gateway.reddit.com
 $boost=3,site=gateway.skyscanner.net
 $boost=3,site=gateway.us-east-1.sws.siemens.com
@@ -3704,7 +3704,7 @@ $boost=3,site=login2.parool.nl
 $boost=3,site=login2.trouw.nl
 $boost=3,site=login2.volkskrant.nl
 $boost=3,site=login2.vtm.be
-$boost=3,site=logistics.amazon.*
+! $boost=3,site=logistics.amazon.*
 $boost=3,site=logitech-channel-marketing.com
 $boost=3,site=logitech-partner.com
 $boost=3,site=logitech.com
@@ -3831,7 +3831,7 @@ $boost=3,site=manage.grab.co
 $boost=3,site=manage.statuspage.io
 $boost=3,site=mands.reflexisinc.co.uk
 $boost=3,site=manoj-workstation.cicd.zebra.engineering
-$boost=3,site=manufacturing.amazon.*
+! $boost=3,site=manufacturing.amazon.*
 $boost=3,site=manufacturing.amazon.com
 $boost=3,site=map.snapchat.com
 $boost=3,site=mapbox.com
@@ -3865,7 +3865,7 @@ $boost=3,site=marketplaceadmin.mendixcloud.com
 $boost=3,site=markssupply.fetchcore-cloud.com
 $boost=3,site=marlo.ext.tripadvisor.com
 $boost=3,site=marquee.gs.com
-$boost=3,site=marriott.co.*
+! $boost=3,site=marriott.co.*
 $boost=3,site=marriott.com
 $boost=3,site=marriottfranchisetransactions.marriott.com
 $boost=3,site=marrtool.com
@@ -3879,7 +3879,7 @@ $boost=3,site=mastercardbiz.ca
 $boost=3,site=mastercardbiz.com
 $boost=3,site=matic.network
 $boost=3,site=matomo.cloud
-$boost=3,site=matrix.agent.*.tchap.gouv.fr
+! $boost=3,site=matrix.agent.*.tchap.gouv.fr
 $boost=3,site=matrix.e.tchap.gouv.fr
 $boost=3,site=matrix.i.tchap.gouv.fr
 $boost=3,site=mattermost.com
@@ -4355,7 +4355,7 @@ $boost=3,site=mumincctv.profitect.com
 $boost=3,site=muminmfa.profitect.com
 $boost=3,site=muminping.profitect.com
 $boost=3,site=mundi.com.br
-$boost=3,site=munin-*.wordpress.org
+! $boost=3,site=munin-*.wordpress.org
 $boost=3,site=mus1.badoo.com
 $boost=3,site=muscache.com
 $boost=3,site=music.amazon.com
@@ -4890,7 +4890,7 @@ $boost=3,site=npmjs.org
 $boost=3,site=nr-data.net
 $boost=3,site=nr-ops.net
 $boost=3,site=nrf.reflexisinc.com
-$boost=3,site=nrtllc.*
+! $boost=3,site=nrtllc.*
 $boost=3,site=ns01.enfotrust.net.reflexis-university.com
 $boost=3,site=ns01.reflexis-university.com
 $boost=3,site=ns01.reflexis-university.com.pace-etn.net
@@ -4973,7 +4973,7 @@ $boost=3,site=omniture.com
 $boost=3,site=on-ramp.metaswap-dev.codefi.network
 $boost=3,site=on-running.com
 $boost=3,site=onboard.neogov.com
-$boost=3,site=onboarding-*.cloud.com
+! $boost=3,site=onboarding-*.cloud.com
 $boost=3,site=onboarding.cloud.com
 $boost=3,site=onboarding.greenhouse.io
 $boost=3,site=oncatapult.com
@@ -4986,7 +4986,7 @@ $boost=3,site=onetonline.org
 $boost=3,site=oneworldradio.tomorrowland.com
 $boost=3,site=onhir.gov
 $boost=3,site=online-essentials.be
-$boost=3,site=online.*.skybingo.com
+! $boost=3,site=online.*.skybingo.com
 $boost=3,site=online.monash.edu
 $boost=3,site=ookla.com
 $boost=3,site=open.airbnb.com
@@ -5016,7 +5016,7 @@ $boost=3,site=opslogin.fr.cloud.gov
 $boost=3,site=optimizely-edge.com
 $boost=3,site=orc-xfi.com
 $boost=3,site=orchard.limeinternal.com
-$boost=3,site=org.amazon.*
+! $boost=3,site=org.amazon.*
 $boost=3,site=org.qwant.com
 $boost=3,site=origin-beta-staging.regulations.gov
 $boost=3,site=origin-images.ipage.com
@@ -5163,7 +5163,7 @@ $boost=3,site=passwordchallenge.marriott.com
 $boost=3,site=pat.itq.in
 $boost=3,site=pathway.mastercard.com
 $boost=3,site=patternbank.profitect.com
-$boost=3,site=pay.amazon.*
+! $boost=3,site=pay.amazon.*
 $boost=3,site=pay.crypto.com
 $boost=3,site=pay.unity.com
 $boost=3,site=payable.com
@@ -5174,12 +5174,12 @@ $boost=3,site=paylution.com
 $boost=3,site=payment-connectors.vendhq.com
 $boost=3,site=payment.deezer.com
 $boost=3,site=payment.pixiv.net
-$boost=3,site=payments.amazon.*
+! $boost=3,site=payments.amazon.*
 $boost=3,site=payments.caffeine.tv
 $boost=3,site=payments.olx.com
 $boost=3,site=paymentstatus.westernunion.com
 $boost=3,site=payoneer.com
-$boost=3,site=paypal-*.com
+! $boost=3,site=paypal-*.com
 $boost=3,site=paypal.com
 $boost=3,site=paypal.me
 $boost=3,site=paypalcorp.com
@@ -5231,7 +5231,7 @@ $boost=3,site=philadelphiafed.org
 $boost=3,site=philips.antuit.ai
 $boost=3,site=phonegap.com
 $boost=3,site=photoaffections.com
-$boost=3,site=photos.amazon.*
+! $boost=3,site=photos.amazon.*
 $boost=3,site=photoshop.com
 $boost=3,site=photouploader.lamoda.ru
 $boost=3,site=phrase.com
@@ -5257,7 +5257,7 @@ $boost=3,site=pilotflyingjtestapi.profitect.com
 $boost=3,site=pilotflyingjtestcctv.profitect.com
 $boost=3,site=ping.pdst.fm
 $boost=3,site=pins-dash.topcoder.com
-$boost=3,site=pit*evoting.ch
+! $boost=3,site=pit*evoting.ch
 $boost=3,site=pitneybowes.fetchcore-cloud.com
 $boost=3,site=piv.idmanagement.gov
 $boost=3,site=pixabay.com
@@ -5314,7 +5314,7 @@ $boost=3,site=polygon.technology
 $boost=3,site=ponds.com
 $boost=3,site=popjam.com
 $boost=3,site=poportal.gsa.gov
-$boost=3,site=popsicle.*
+! $boost=3,site=popsicle.*
 $boost=3,site=pornhub.com
 $boost=3,site=pornhubpremium.com
 $boost=3,site=pornmd.com
@@ -5367,10 +5367,10 @@ $boost=3,site=priceline.com
 $boost=3,site=pricing.huntingtonhospital.com
 $boost=3,site=primax.reflexisinc.com
 $boost=3,site=primaxpp.reflexisinc.com
-$boost=3,site=prime.amazon.*
+! $boost=3,site=prime.amazon.*
 $boost=3,site=prime.coinbase.com
 $boost=3,site=primeinc.org
-$boost=3,site=primenow.amazon.*
+! $boost=3,site=primenow.amazon.*
 $boost=3,site=primetime.bluejeans.com
 $boost=3,site=privacy.ketnet.be
 $boost=3,site=privacy.synapsegroupinc.com
@@ -5569,8 +5569,8 @@ $boost=3,site=radioplus.be
 $boost=3,site=ragnar.topcoder.com
 $boost=3,site=rakuten.com
 $boost=3,site=randa.fetchcore-cloud.com
-$boost=3,site=randstad.*
-$boost=3,site=randstadrisesmart.*
+! $boost=3,site=randstad.*
+! $boost=3,site=randstadrisesmart.*
 $boost=3,site=rankings.etoro.com
 $boost=3,site=rapidrtm.reflexisinc.com
 $boost=3,site=rarible.com
@@ -5589,7 +5589,7 @@ $boost=3,site=realme.net
 $boost=3,site=realmebbs.com
 $boost=3,site=realmemobile.com
 $boost=3,site=realmeservice.com
-$boost=3,site=realogy.*
+! $boost=3,site=realogy.*
 $boost=3,site=realpropertyprofile.gov
 $boost=3,site=realself.com
 $boost=3,site=realtime.caffeine.tv
@@ -5775,7 +5775,7 @@ $boost=3,site=richardsonrfpd.com
 $boost=3,site=richemont-dfw.fetchcore-cloud.com
 $boost=3,site=richmondfed.org
 $boost=3,site=rin.in
-$boost=3,site=risesmart.*
+! $boost=3,site=risesmart.*
 $boost=3,site=risk-api.eyesightx.testing.forescoutcloud.net
 $boost=3,site=ritzcarlton.com
 $boost=3,site=rma.ui.com
@@ -6179,7 +6179,7 @@ $boost=3,site=securityscorecard.com
 $boost=3,site=securityscorecard.io
 $boost=3,site=securityservices.io
 $boost=3,site=securitytxt.org
-$boost=3,site=sedal.*
+! $boost=3,site=sedal.*
 $boost=3,site=seek.com
 $boost=3,site=seek.com.au
 $boost=3,site=seekcdn.com
@@ -6441,7 +6441,7 @@ $boost=3,site=shop.thuisbezorgd.nl
 $boost=3,site=shop.trouw.nl
 $boost=3,site=shop.volkskrant.nl
 $boost=3,site=shop101.com
-$boost=3,site=shopbylook.amazon.*
+! $boost=3,site=shopbylook.amazon.*
 $boost=3,site=shopgreendigs.com
 $boost=3,site=shopify.com
 $boost=3,site=shopify.plus
@@ -6538,7 +6538,7 @@ $boost=3,site=smartmockups.com
 $boost=3,site=smartpay.gsa.gov
 $boost=3,site=smartpaybi.fas.gsa.gov
 $boost=3,site=smarttrader.deriv.com
-$boost=3,site=smile.amazon.*
+! $boost=3,site=smile.amazon.*
 $boost=3,site=smooch.io
 $boost=3,site=smtp.com
 $boost=3,site=smtp.sendgrid.net
@@ -6595,7 +6595,7 @@ $boost=3,site=sophos.corp.databricks.com
 $boost=3,site=sorare.com
 $boost=3,site=sos.iowa.gov
 $boost=3,site=sos.state.oh.us
-$boost=3,site=sothebysrealty.*
+! $boost=3,site=sothebysrealty.*
 $boost=3,site=soundcloud.com
 $boost=3,site=soundcloud.org
 $boost=3,site=soundtrackyourride.byspotify.com
@@ -6923,7 +6923,7 @@ $boost=3,site=telenettv.be
 $boost=3,site=telenor.se
 $boost=3,site=telluride.gsa.gov
 $boost=3,site=temp.rarible.com
-$boost=3,site=tempo-team.*
+! $boost=3,site=tempo-team.*
 $boost=3,site=tempo-team.be
 $boost=3,site=tempo-team.com
 $boost=3,site=tempo-team.nl
@@ -7317,7 +7317,7 @@ $boost=3,site=utv.usaa.com
 $boost=3,site=utvqa.usaa.com
 $boost=3,site=uwa.mobilevikings.be
 $boost=3,site=uzlcm12cmg1.uzleuven.be
-$boost=3,site=uzleuven.*
+! $boost=3,site=uzleuven.*
 $boost=3,site=uzleuven.be
 $boost=3,site=v-cf.caffeine.tv
 $boost=3,site=va.gov
@@ -7346,7 +7346,7 @@ $boost=3,site=vault.omise.co
 $boost=3,site=vavmc.com
 $boost=3,site=vazoplintirio.gr
 $boost=3,site=vc.logitech.com
-$boost=3,site=vcc-*.8x8.com
+! $boost=3,site=vcc-*.8x8.com
 $boost=3,site=vcn-hackerone.affirm-odin.com
 $boost=3,site=vcss.gsa.gov
 $boost=3,site=vcss.ocfo.gsa.gov
@@ -7399,7 +7399,7 @@ $boost=3,site=viioni.fetchcore-cloud.com
 $boost=3,site=vikingco.be
 $boost=3,site=vikingdeals.be
 $boost=3,site=vikinglab.be
-$boost=3,site=vim.*
+! $boost=3,site=vim.*
 $boost=3,site=vimeo.com
 $boost=3,site=vimeo.magisto.com
 $boost=3,site=vimeopro.com
@@ -7426,7 +7426,7 @@ $boost=3,site=voterready.iowa.gov
 $boost=3,site=voteuntukimpianku.com
 $boost=3,site=vpe-us.underarmour.com
 $boost=3,site=vpn-us.corp.databricks.com
-$boost=3,site=vpn.*.platfoo.com
+! $boost=3,site=vpn.*.platfoo.com
 $boost=3,site=vpn.gsa.gov
 $boost=3,site=vpn.lob.com
 $boost=3,site=vpn.mobilevikings.be
@@ -7542,7 +7542,7 @@ $boost=3,site=west.bowsers.io
 $boost=3,site=westerndental.reflexisinc.com
 $boost=3,site=westerndentalpp.reflexisinc.com
 $boost=3,site=westerndentalsb.reflexisinc.com
-$boost=3,site=westernunion.*
+! $boost=3,site=westernunion.*
 $boost=3,site=westernunion.at
 $boost=3,site=westernunion.be
 $boost=3,site=westernunion.ca
@@ -7652,7 +7652,7 @@ $boost=3,site=ws1.dashlane.com
 $boost=3,site=wslatam.ifood.com.br
 $boost=3,site=wsloja.ifood.com.br
 $boost=3,site=wsmbr.usaa.com
-$boost=3,site=wu.*
+! $boost=3,site=wu.*
 $boost=3,site=wuagentportal.westernunion.com
 $boost=3,site=wucare.westernunion.com
 $boost=3,site=wuedge.com
@@ -7677,8 +7677,8 @@ $boost=3,site=x.woo.org
 $boost=3,site=x2.fortmatic.com
 $boost=3,site=xd.adobe.com
 $boost=3,site=xfiplatform.com
-$boost=3,site=xhomeapi-*.cloud.comcast.net
-$boost=3,site=xhomeapi-*.codebig2.net
+! $boost=3,site=xhomeapi-*.cloud.comcast.net
+! $boost=3,site=xhomeapi-*.codebig2.net
 $boost=3,site=xiaomi.com
 $boost=3,site=xiaomi11.withspotify.com
 $boost=3,site=xiaomiyoupin.com
@@ -7776,7 +7776,7 @@ $boost=3,site=zebrainventory.com
 $boost=3,site=zego.com
 $boost=3,site=zegocover.com
 $boost=3,site=zendesk.com
-$boost=3,site=zendium.*
+! $boost=3,site=zendium.*
 $boost=3,site=zerozerozero.withspotify.com
 $boost=3,site=zest.com.mx
 $boost=3,site=zetes-demo.fetchcore-cloud.com
@@ -7839,5 +7839,5 @@ $boost=3,site=zsec-b.zpc.zebra.com
 $boost=3,site=zsz.ch
 $boost=3,site=zuonline.ch
 $boost=3,site=zurich.topcoder.com
-$boost=3,site=zwitsal.*
+! $boost=3,site=zwitsal.*
 $boost=3,site=zynbitdev.com
