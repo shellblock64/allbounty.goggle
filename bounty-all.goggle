@@ -2483,9 +2483,9 @@ $boost=3,site=gifts.com
 $boost=3,site=gimletmedia.com
 $boost=3,site=gimstaging.com
 $boost=3,site=gis.gsa.gov
-$boost=3,site=gist.github.com
-$boost=3,site=github.com
-$boost=3,site=github.net
+$boost=1,site=gist.github.com
+$boost=1,site=github.com
+$boost=1,site=github.net
 $boost=3,site=githubapp.com
 $boost=3,site=githubusercontent.com
 $boost=3,site=gitlab.com
